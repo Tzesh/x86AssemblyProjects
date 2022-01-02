@@ -1,2 +1,2 @@
 # x86AssemblyProjects
-x86 assembly language projects that I've created so far
+Each folder represents a project which has its own explanation within the same folder.
